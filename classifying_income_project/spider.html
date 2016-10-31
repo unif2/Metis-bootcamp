@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/ >
+		<title>Smoothed D3.js Radar Chart</title>
+
+		<!-- Google fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+		<!-- D3.js -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+		
+		<style>
+			body {
+				font-family: 'Open Sans', sans-serif;
+				font-size: 11px;
+				font-weight: 300;
+				fill: #242424;
+				text-align: center;
+				text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+				cursor: default;
+			}
+			
+			.legend {
+				font-family: 'Raleway', sans-serif;
+				fill: #333333;
+			}
+			
+			.tooltip {
+				fill: #333333;
+			}
+		</style>
+	
+	</head>
+	<body>
+
+		<div class="radarChart"></div>
+
+		<script src="radarChart.js"></script>	
+		<script>
+			////////////////////////////////////////////////////////////// 
+			//////////////////////// Set-Up ////////////////////////////// 
+			////////////////////////////////////////////////////////////// 
+
+			var margin = {top: 100, right: 100, bottom: 100, left: 100},
+				width = Math.min(700, window.innerWidth - 10) - margin.left - margin.right,
+				height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
+					
+			////////////////////////////////////////////////////////////// 
+			////////////////////////// Data ////////////////////////////// 
+			////////////////////////////////////////////////////////////// 
+
+			var data = [
+					  [//Above 
+						{axis:"Smoking",value:0.2269},
+						{axis:"Excessive Drinking",value:0.1461},
+						{axis:"Obese",value:0.3166},
+						{axis:"Inactive",value:0.2782},
+						{axis:"Drunk Driving",value:0.0001788},
+						{axis:"Mental",value:.3916},
+						//{axis:"Drugs",value:14.8819},
+						//{axis:"Physically Ill",value:0.002664}			
+					  ],[//below
+						{axis:"Smoking",value:0.1734},
+						{axis:"Excessive Drinking",value:0.1768},
+						{axis:"Obese",value:0.2754},
+						{axis:"Inactive",value:0.2217},
+						{axis:"Drunk Driving",value:0.0002835},
+						{axis:"Mental",value:0.3189},
+						//{axis:"Drugs",value:11.4495},
+						//{axis:"Physically Ill",value:0.006791}					
+					  ]
+					];
+			////////////////////////////////////////////////////////////// 
+			//////////////////// Draw the Chart ////////////////////////// 
+			////////////////////////////////////////////////////////////// 
+
+			var color = d3.scale.ordinal()
+				//.range(["#EDC951","#CC333F","#00A0B0"]);
+				.range(["#CC333F","#00A0B0"]);
+				
+			var radarChartOptions = {
+			  w: width,
+			  h: height,
+			  margin: margin,
+			  maxValue: 0.4,
+			  levels: 5,
+			  roundStrokes: true,
+			  color: color
+			};
+			//Call function to draw the Radar chart
+			RadarChart(".radarChart", data, radarChartOptions);
+		</script>
+	</body>
+</html>

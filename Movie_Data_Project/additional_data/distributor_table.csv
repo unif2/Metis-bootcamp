@@ -1,0 +1,773 @@
+rank,distributor,movies,total box office,tickets,share
+1,Warner Bros.,666,29568957405,4467130931,15.09
+2,Walt Disney,524,29393034633,4537661828,15.00
+3,Sony Pictures,634,24490000958,3787901360,12.50
+4,20th Century Fox,458,22746147357,3452062010,11.61
+5,Universal,427,22171053208,3356068483,11.31
+6,Paramount Pictures,429,21947765069,3396046564,11.20
+7,Lionsgate,334,7146261228,946471612,3.65
+8,New Line,205,6193114702,1116171066,3.16
+9,Dreamworks SKG,77,4278649271,760431349,2.18
+10,Miramax,382,3841082392,714988687,1.96
+11,MGM,229,3510209398,642120427,1.79
+12,Fox Searchlight,195,2282861138,329831325,1.16
+13,Weinstein Co.,167,2077152078,265199311,1.06
+14,Focus Features,140,1775118963,244063008,0.91
+15,Summit Entertainment,40,1667022795,217204346,0.85
+16,Sony Pictures Classics,449,1082016788,167497101,0.55
+17,Miramax/Dimension,28,1035673230,177909485,0.53
+18,Relativity,44,922058378,114309590,0.47
+19,Open Road,38,697309051,85536764,0.36
+20,Newmarket Films,26,450945962,72913239,0.23
+21,IFC Films,359,406022644,63779687,0.21
+22,FilmDistrict,16,382933030,47522112,0.20
+23,CBS Films,23,382636677,47480446,0.20
+24,Artisan,60,381988096,72347363,0.19
+25,Paramount Vantage,87,376993838,55448089,0.19
+26,Overture Films,23,342696132,45769788,0.17
+27,USA Films,28,296282431,53244929,0.15
+28,Gramercy,59,294697471,64740015,0.15
+29,Weinstein/Dimension,12,292964782,40767850,0.15
+30,IMAX Films,87,288553100,48147101,0.15
+31,STX Entertainment,7,242402234,28754709,0.12
+32,Roadside Attractions,114,242329838,30084318,0.12
+33,Picturehouse,30,155411956,22299888,0.08
+34,Polygram,9,150730128,32271996,0.08
+35,Warner Independent,26,149630060,23182668,0.08
+36,MacGillivray Freeman Films,7,148322809,29116342,0.08
+37,A24,42,147650305,17683289,0.08
+38,Focus/Rogue Pictures,10,143951668,22414937,0.07
+39,Fine Line,73,133664653,26939004,0.07
+40,Samuel Goldwyn Films,82,129261689,17995279,0.07
+41,Sony/TriStar,10,120306715,24284616,0.06
+42,Magnolia Pictures,293,117767430,16320148,0.06
+43,Eros Entertainment,133,115575272,15547113,0.06
+44,Freestyle Releasing,99,112571176,15327991,0.06
+45,Pure Flix Entertainment,6,111225040,13423309,0.06
+46,October Films,45,105688542,22150242,0.05
+47,United Artists,10,100917553,14086858,0.05
+48,UTV Communications,96,76060409,9829536,0.04
+49,Alliance Films,47,74299926,10807419,0.04
+50,Pantelion Films,11,68748079,8476085,0.04
+51,Savoy,10,65656828,15092800,0.03
+52,Rocky Mountain Pictures,29,65628076,8741106,0.03
+53,Filmways Pictures,1,65233369,10176812,0.03
+54,ThinkFilm,105,61702375,9529534,0.03
+55,National Geographic Entertainment,26,60211129,8011887,0.03
+56,Yash Raj Films,51,59413300,8432155,0.03
+57,Yari Film Group Releasing,13,56140232,8421226,0.03
+58,Trimark,28,55942522,11883312,0.03
+59,Destination Films,5,55116326,10225661,0.03
+60,Broad Green Pictures,10,52505654,6228423,0.03
+61,Orion Pictures,12,51717241,11588590,0.03
+62,Goldwyn Entertainment,33,49807146,10769844,0.03
+63,Bleecker Street,9,48574600,5762108,0.02
+64,Giant Screen Films,7,45662623,7719013,0.02
+65,nWave Pictures,27,42486061,7042486,0.02
+66,First Look,51,41544263,7514020,0.02
+67,RADiUS-TWC,27,35623234,4298068,0.02
+68,EuropaCorp,3,35510162,4212354,0.02
+69,Apparition,8,29941563,3907581,0.02
+70,Clarius Entertainment,5,29119817,3555725,0.01
+71,IDP/Goldwyn/Roadside,19,28285177,4360764,0.01
+72,Palm Pictures,41,27179393,4530404,0.01
+73,Zeitgeist,102,27167630,4175852,0.01
+74,Focus / Gramercy,1,26594261,3154716,0.01
+75,Music Box Films,88,26420464,3372534,0.01
+76,New Yorker,102,23640954,4215485,0.01
+77,3D Entertainment,7,23621565,3315452,0.01
+78,IDP Distribution,16,23406780,3907113,0.01
+79,High Top Releasing,8,21918498,2617369,0.01
+80,Alchemy,32,21556266,2671954,0.01
+81,Mongrel Media,95,20135687,2481742,0.01
+82,Live Entertainment,4,19129723,4151948,0.01
+83,SK Films,5,19084280,3054174,0.01
+84,Odeon Films,9,17763674,2949124,0.01
+85,Miramax/Roadside Attractions,1,17737646,2104109,0.01
+86,Excel Entertainment,18,17155655,2808853,0.01
+87,Entertainment One,33,16340929,2015478,0.01
+88,Anchor Bay Entertainment,57,16327436,2069807,0.01
+89,Screen Media Films,33,15588153,2641043,0.01
+90,WGBH Giant-Screen Films,3,15553324,2695707,0.01
+91,Strand,248,15121283,2517928,0.01
+92,Cohen Media Group,43,14934050,1821151,0.01
+93,Oscilloscope Pictures,74,14439842,1814739,0.01
+94,China Lion Film Distribution,57,14293592,1718082,0.01
+95,Discovery/IMAX,5,13806525,2767411,0.01
+96,Providence Entertainment,4,13705872,2672124,0.01
+97,Well Go USA,31,13451102,1604484,0.01
+98,Quality Flix,1,13086824,1552410,0.01
+99,Reliance Big Pictures,13,12903473,1618472,0.01
+100,WellSpring,47,12794718,2121211,0.01
+101,Kino International,88,12699717,2070704,0.01
+102,Warren Miller Entertainment,5,12367867,2652499,0.01
+103,Distributor Unknown,13,11798260,2213630,0.01
+104,M Power Releasing,1,11748661,1793688,0.01
+105,Vivendi Entertainment,6,11569786,1565984,0.01
+106,Captured Light,2,10941801,1757694,0.01
+107,Codeblack Entertainment,5,10754925,1350877,0.01
+108,CJ Entertainment,26,10465213,1262348,0.01
+109,The Orchard,18,10134897,1202232,0.01
+110,Five &amp; Two Pictures,13,10108495,1349210,0.01
+111,Lionsgate/Roadside Attractions,4,9953915,1218244,0.01
+112,Purdie Distribution,7,9892152,1205254,0.01
+113,Big Pictures,10,9428584,1229652,0.00
+114,ARC Entertainment,7,9277137,1165468,0.00
+115,FUNimation,6,9125607,1082513,0.00
+116,Fox International,8,9117748,1090389,0.00
+117,Bluesky Cinemas,2,9051043,1073670,0.00
+118,First Run Features,229,8901851,1296808,0.00
+119,Stratosphere Entertainment,13,8470235,1710628,0.00
+120,Shadow,34,8189649,1354460,0.00
+121,Producers Distribution Agency,6,8113269,1024395,0.00
+122,LD Distribution,2,8102399,1017888,0.00
+123,Rialto Pictures,71,8085213,1306434,0.00
+124,Seville,6,8021218,1073259,0.00
+125,8X Entertainment,2,7791554,1376599,0.00
+126,Primesco,4,7739694,1489178,0.00
+127,ShortsHD,3,7587199,908923,0.00
+128,AdLab Films,9,7538789,1094491,0.00
+129,Abramorama Films,33,7502793,925426,0.00
+130,Roxie Releasing,13,7429115,1352597,0.00
+131,Shining Excalibur,1,7412216,1703957,0.00
+132,FIP,5,7193575,865424,0.00
+133,Shooting Gallery,7,7118037,1320375,0.00
+134,Drafthouse Films,40,7085482,851606,0.00
+135,Indican Pictures,134,6965483,1068629,0.00
+136,Chicago Releasing,1,6881021,1000148,0.00
+137,Shorts International,5,6859713,862887,0.00
+138,Regent Releasing,107,6857033,1017578,0.00
+139,Live Film &amp; Mediaworks,1,6754958,1440289,0.00
+140,Cowboy Pictures,25,6471254,1156426,0.00
+141,GKIDS,17,6371142,773823,0.00
+142,Kino Lorber,149,6214697,758007,0.00
+143,Film Foundry,2,6132806,933643,0.00
+144,Lot 47 Films,11,6071496,1057566,0.00
+145,RS Entertainment,2,5970721,999153,0.00
+146,Magnet Pictures,28,5948362,748163,0.00
+147,Orion Classics,7,5906222,1343698,0.00
+148,Janus Films,35,5881449,742079,0.00
+149,International Film Circuit,45,5872143,753189,0.00
+150,Fathom Events,2,5475900,649572,0.00
+151,Viva Entertainment,17,5179342,657918,0.00
+152,Film Arcade,11,5024602,599950,0.00
+153,Slowhand Cinema,16,4992849,723157,0.00
+154,Christal Films,5,4650627,764350,0.00
+155,Atlas Distribution,3,4415879,550410,0.00
+156,Visio Entertainment,1,4367448,550750,0.00
+157,Vitagraph Films,27,4345781,649637,0.00
+158,Televisa Cine,2,4319425,694862,0.00
+159,Cloud Ten Pictures,1,4221341,745819,0.00
+160,Empire Pictures,26,4199718,702985,0.00
+161,Cinegalaxy,1,3903095,463000,0.00
+162,Sundance Selects,8,3878100,460493,0.00
+163,Benji Returns,1,3817362,614712,0.00
+164,Cinema Guild,51,3785680,507999,0.00
+165,Menemsha Entertainment,9,3715371,574539,0.00
+166,Manhattan Pictures International,1,3707201,614792,0.00
+167,Legacy Releasing,17,3690782,799388,0.00
+168,TLA Releasing,30,3633742,577453,0.00
+169,Studio 18,5,3631352,501894,0.00
+170,IFC First Take,26,3551426,518953,0.00
+171,Film Movement,74,3483091,475324,0.00
+172,Unison/Paladin,1,3469224,411533,0.00
+173,Outrider Pictures,9,3438552,591805,0.00
+174,Rainbow Releasing,14,3358370,598498,0.00
+175,Variance Films,55,3356079,420783,0.00
+176,Halestorm Entertainment,5,3146608,517901,0.00
+177,Wingate Distribution,1,3127472,477476,0.00
+178,Rat Entertainment,1,3042188,523612,0.00
+179,Aloha Releasing,4,3033137,473134,0.00
+180,Paladin,26,2898020,364633,0.00
+181,Artistic License,30,2880222,559737,0.00
+182,Phaedra Cinema,24,2873505,534472,0.00
+183,Vestron,1,2868135,624866,0.00
+184,NCM Fathom,1,2800000,351758,0.00
+185,Independent Artists,1,2793776,549955,0.00
+186,Good Machine Releasing,2,2746453,583782,0.00
+187,Indomina Releasing,9,2734646,343194,0.00
+188,Cinedigm,22,2713917,336480,0.00
+189,Tartan Films,24,2713408,415927,0.00
+190,Cinema Libre,38,2710400,368067,0.00
+191,Hammond Entertainment,2,2688320,321902,0.00
+192,Arenas Entertainment,3,2676607,371706,0.00
+193,Amazon Studios/Roadside Attractions,2,2653031,314712,0.00
+194,Luke Films,3,2627016,418746,0.00
+195,TriBeca Films,48,2625630,323361,0.00
+196,Cinelou Releasing,2,2618851,310658,0.00
+197,Innovation Film Group,9,2549524,411914,0.00
+198,B4U Movies,2,2531427,319731,0.00
+199,Reliance Entertainment,6,2526697,303665,0.00
+200,Truly Indie,23,2466271,335900,0.00
+201,Beeker Street,1,2436308,289004,0.00
+202,Romar,2,2409120,367816,0.00
+203,Avatar,14,2363480,405598,0.00
+204,Power Point Films,2,2335352,412493,0.00
+205,Koch Lorber Films,19,2328836,348006,0.00
+206,BET Pictures,1,2291255,518383,0.00
+207,Gathr Films,6,2283524,274596,0.00
+208,Purple Rose Films,1,2276406,402191,0.00
+209,Lionsgate/After Dark,2,2274489,330593,0.00
+210,Self Distributed,32,2248923,286146,0.00
+211,Jour de Fete,4,2097447,328501,0.00
+212,Stony Island Entertainment,1,2026756,270234,0.00
+213,Vineyard Distribution,2,2025032,315558,0.00
+214,Kit Parker Films,2,2022827,451007,0.00
+215,Maya Releasing,11,2002300,278425,0.00
+216,Video Sound,4,1946528,376112,0.00
+217,ATO Pictures,6,1926768,242348,0.00
+218,Cinepix Film Properties,8,1907326,427300,0.00
+219,Quaker Media,1,1891936,238579,0.00
+220,Hannover House,11,1878135,236287,0.00
+221,Branded Entertainment,1,1832541,230218,0.00
+222,Really Big Film Corp.,2,1808679,319006,0.00
+223,Emerging Pictures,25,1799254,261340,0.00
+224,Arrow Releasing,4,1778174,391329,0.00
+225,The Bigger Picture,11,1774950,259142,0.00
+226,Eleven Arts,13,1741136,217529,0.00
+227,Lorimar Motion Pictures,2,1719192,350962,0.00
+228,"Libero, LLC",2,1706325,254745,0.00
+229,Echolight Studios,2,1702594,209421,0.00
+230,Halestone,3,1656076,267469,0.00
+231,Holedigger Studios,3,1652665,257775,0.00
+232,Monterey Media,67,1593150,207837,0.00
+233,Ficus,1,1582476,194646,0.00
+234,Castle Hill Productions,29,1567875,278457,0.00
+235,First Independent Pictures,15,1566427,220837,0.00
+236,"One Media, LLC",1,1557494,190635,0.00
+237,Northern Arts Entertainment,15,1551277,328672,0.00
+238,TVA Films,1,1548858,206514,0.00
+239,Gener8xion Entertainment,3,1513947,201565,0.00
+240,Counterpoint Films &amp; Self-Realization Fellowship,2,1511750,183111,0.00
+241,LD Entertainment,1,1436862,176735,0.00
+242,Radius,8,1429428,175679,0.00
+243,Lorber Films,29,1414815,180547,0.00
+244,Nocturnal Features,14,1374970,173167,0.00
+245,Aron Govil Productions,1,1350230,188054,0.00
+246,City Lights Pictures,11,1337661,189953,0.00
+247,Embassy,3,1284276,204472,0.00
+248,Keystone Entertainment,1,1248746,231678,0.00
+249,Ram Entertainment,1,1214661,185444,0.00
+250,Cho Taussig Prods.,2,1210967,219966,0.00
+251,Omin/Freestyle,1,1186538,149626,0.00
+252,Rooster Teeth,1,1186426,140738,0.00
+253,Zipporah,11,1172665,148746,0.00
+254,Rainforest Productions,1,1161843,215555,0.00
+255,Balcony Releasing,24,1139428,160019,0.00
+256,"Callbox, LLC",2,1109276,137535,0.00
+257,IFC Midnight,11,1105259,134193,0.00
+258,Panorama Entertainment,7,1103794,184318,0.00
+259,Railroad Square,3,1099897,165498,0.00
+260,WinStar Cinema,5,1084993,198516,0.00
+261,DreamWorks/Go Fish,2,1081181,174282,0.00
+262,Ten Furlongs,1,1069454,130900,0.00
+263,Black Diamond Pictures,1,1066555,155022,0.00
+264,Kenn Viselman Presents,1,1065907,133907,0.00
+265,Smodshow Productions,1,1065429,134354,0.00
+266,Bleecker Street &amp; Amazon Studios,1,1055284,125181,0.00
+267,Media Partners,2,1041228,178603,0.00
+268,RCR Media Group,1,1034589,127255,0.00
+269,CanZion Films,3,1010882,127076,0.00
+270,Equinox,2,1010194,134989,0.00
+271,Pure Flix / Samuel Goldwyn Films,1,1004105,119110,0.00
+272,Amplify,4,992495,119092,0.00
+273,Gravitas Ventures,10,974547,115720,0.00
+274,Submarine Deluxe,10,955526,116043,0.00
+275,Exclusive Releasing,2,943459,116045,0.00
+276,FilmRise,12,917049,108840,0.00
+277,Elephant Eye Films,6,912980,123086,0.00
+278,Adopt Films,5,910506,110881,0.00
+279,Gaatri Media,1,897876,106509,0.00
+280,Docurama,3,890155,109612,0.00
+281,Hombre de Oro,1,886410,164454,0.00
+282,Independent Indian,1,880000,104389,0.00
+283,After Dark,3,873085,116468,0.00
+284,Candlelight Media,1,872427,121507,0.00
+285,Seventh Art Releasing,20,866515,146015,0.00
+286,518 Media,3,856457,125735,0.00
+287,BB Entertainment,1,837878,130714,0.00
+288,Set Pictures,1,835767,147662,0.00
+289,ZeeTV,1,833648,134242,0.00
+290,Image Entertainment,12,825937,107123,0.00
+291,Argot Pictures,16,812547,103371,0.00
+292,Page 124 Productions,2,809590,101598,0.00
+293,Arthouse Films,8,807850,104654,0.00
+294,Arts Alliance America,4,792734,106037,0.00
+295,Wrekin Hill Entertainment,4,765000,96284,0.00
+296,ContentFilm,2,742898,123144,0.00
+297,Senart/Scranton-Lacy,2,742583,106828,0.00
+298,Veracity Moving Pictures,1,741381,93138,0.00
+299,Focus World,5,733324,86988,0.00
+300,CAVU Releasing,8,732946,117462,0.00
+301,Peace Arch Releasing,7,722781,100411,0.00
+302,Crane Movie Company,1,719556,100216,0.00
+303,FM Entertainment International,1,684351,154830,0.00
+304,Alive Mind,15,675722,84060,0.00
+305,Tips Exports,1,645615,114066,0.00
+306,Tachyon,1,644010,81211,0.00
+307,Access Motion Picture Group,1,638227,112760,0.00
+308,Imaginasian,2,635554,92374,0.00
+309,Area 23a,8,632437,78042,0.00
+310,Future Educational Films,2,612717,74955,0.00
+311,Pan Media &amp; Entertainment,2,607816,74220,0.00
+312,The Film Desk,40,600160,77110,0.00
+313,Long Shot Factory,9,585799,72680,0.00
+314,Myriad Entertainment Group,3,584538,100484,0.00
+315,Tugg,1,575258,68239,0.00
+316,Gold Circle Films,2,564997,93680,0.00
+317,Filmopolis Pictures,1,555900,125769,0.00
+318,PBS Films,2,552848,65580,0.00
+319,Borotoro,2,551002,79860,0.00
+320,Picture This Entertainment,16,543153,84435,0.00
+321,Logo Features,1,532878,74216,0.00
+322,American Zoetrope,1,518522,69136,0.00
+323,Dada Films,12,507034,62351,0.00
+324,Five Sisters Productions,4,505675,83791,0.00
+325,Hyde Park Films,1,493296,62521,0.00
+326,Cinema Purgatorio,11,482577,59613,0.00
+327,Starz Media,6,474511,56674,0.00
+328,American Experience/PBS Films,2,466114,56953,0.00
+329,Distrib Films,22,464250,56373,0.00
+330,XLrater Media,2,458001,56129,0.00
+331,First Independent/Dada Films,4,446558,70867,0.00
+332,Autonomous Films,1,446165,64849,0.00
+333,erbp Film,1,444098,54624,0.00
+334,Hammer the Movie,1,442638,61648,0.00
+335,Milestone,3,435318,63111,0.00
+336,The Ciesla Foundation,2,433924,51473,0.00
+337,Big World Pictures,11,431617,52228,0.00
+338,Brainstorm Media,7,426777,52983,0.00
+339,Cyan,2,425218,64917,0.00
+340,Net Effect,2,424536,68362,0.00
+341,Fabrication Films,3,404236,61797,0.00
+342,Icarus Films,12,403380,49351,0.00
+343,Westchester Films,3,402088,51533,0.00
+344,Full Circle Releasing,1,397641,53018,0.00
+345,P&amp;A Releasing,1,392000,63123,0.00
+346,Loki Films,2,390024,48964,0.00
+347,Mela Films,2,381225,59819,0.00
+348,Penland,1,381000,87586,0.00
+349,MPI Media Group,3,379305,47667,0.00
+350,Columbia,1,378678,85673,0.00
+351,Unico Entertainment,5,372693,59710,0.00
+352,Walking Shadows,4,367569,52357,0.00
+353,Informant Media,1,366474,43472,0.00
+354,Starz Digital Media,3,364712,43262,0.00
+355,Peace Film LLC,1,362239,45679,0.00
+356,Leisure Time Features,7,361072,74639,0.00
+357,ABS-CBN,2,360134,54981,0.00
+358,Bauer Martinez,4,358670,55333,0.00
+359,Lantern Lane Entertainment,7,355409,54355,0.00
+360,Aspiration Media,1,347321,41200,0.00
+361,Bond/360,3,344591,42150,0.00
+362,"AwesomenessTV, Conjunction Films ",1,344500,42373,0.00
+363,The Animation Show/IPMA,2,343071,56717,0.00
+364,Variance/40 Acres &amp; a Mule Filmworks,1,338803,42563,0.00
+365,The Bubble Factory,1,331000,41740,0.00
+366,Magic Lamp,5,329154,54442,0.00
+367,Typecast Releasing,6,325396,47110,0.00
+368,Shemaroo Entertainment,4,317593,45242,0.00
+369,RiverRain / Ripple Effect,1,316117,37499,0.00
+370,Senator Entertainment,1,315000,42000,0.00
+371,Mitropoulos Films,6,314754,43503,0.00
+372,Proud Mother Pictures,2,300968,36467,0.00
+373,Cinema Service,1,298347,48042,0.00
+374,Slugger Films,1,293793,47309,0.00
+375,ABCKO Films,1,293680,35946,0.00
+376,JSC Entertainment,1,292824,35841,0.00
+377,Somerset Films,2,290379,41914,0.00
+378,"Fame, Inc.",1,290211,44307,0.00
+379,Film Sales Company,3,272816,39212,0.00
+380,Silver Nitrate,1,271078,41385,0.00
+381,Stage 6 Films,1,269980,32026,0.00
+382,Kino/Emerging,2,268431,36170,0.00
+383,Main Street,2,267212,32829,0.00
+384,White Hill Production,1,265000,32435,0.00
+385,Asymmetrical,1,261865,31063,0.00
+386,Shakey Pictures,1,251862,40557,0.00
+387,Palm/Manga,4,251847,40553,0.00
+388,Collective Eye,3,249950,31507,0.00
+389,Lovett,2,249565,38409,0.00
+390,7-57 Releasing,2,246442,31470,0.00
+391,PlayNow Enterprise,1,240214,28495,0.00
+392,The Vladar Company,3,238987,28366,0.00
+393,AFFRM,1,236806,29749,0.00
+394,New Films Cinema,2,236442,29966,0.00
+395,Slater Brothers Entertainment,1,234830,29501,0.00
+396,Direct Cinema Ltd,2,229740,33363,0.00
+397,RBC Radio,2,227241,36419,0.00
+398,Arrival Pictures,2,225863,35165,0.00
+399,Paulist Pictures,1,225161,50941,0.00
+400,Grasshopper Film,5,213933,25375,0.00
+401,Fair Trade Pictures,2,212989,29638,0.00
+402,Moriah Films,1,212601,26809,0.00
+403,ArtMattan Productions,27,211490,34308,0.00
+404,Elysian Films,1,203305,27107,0.00
+405,Warrior Poets,1,200010,29071,0.00
+406,Third Rail,4,185664,24816,0.00
+407,Spelling Films,1,185170,41893,0.00
+408,Wolfe Releasing,6,181068,27180,0.00
+409,DEJ Productions,1,181041,28243,0.00
+410,Goodbye Cruel Releasing,3,180579,27725,0.00
+411,IDP/Samuel Goldwyn Films,2,176360,20920,0.00
+412,The Film Collaborative ,7,175109,21727,0.00
+413,Lange,1,175000,27301,0.00
+414,Blue Water Entertainment,2,174255,23262,0.00
+415,Variance Films/Everest Films,1,173828,23177,0.00
+416,Reel Diva Consultants,5,171822,24418,0.00
+417,PMK*BNC,3,171608,21558,0.00
+418,Rocket Releasing,3,168371,21214,0.00
+419,Priority Films,2,163069,23368,0.00
+420,California Newsreel,3,161726,24782,0.00
+421,Phase 4 Films,7,156734,19778,0.00
+422,Ariztical Entertainment,1,155212,24214,0.00
+423,ISA Releasing,2,151815,31850,0.00
+424,Small Planet,2,151138,24922,0.00
+425,D Films,1,150191,17816,0.00
+426,DisruptiveLA,1,149879,18345,0.00
+427,Motion Film Group,1,148994,18788,0.00
+428,Cinecom,1,148443,29221,0.00
+429,Pathe Contemporary Films,3,147451,22649,0.00
+430,Kindred Media Group,3,146860,22420,0.00
+431,Rada Film Group,2,146702,18037,0.00
+432,Matson,2,145843,21809,0.00
+433,Interfilm,1,144961,33324,0.00
+434,Riverrain,4,144421,17983,0.00
+435,SenArt Films,1,143178,17524,0.00
+436,HBO Documentary Films,2,142596,16915,0.00
+437,First Run/Icarus,18,140774,20912,0.00
+438,FilmBuff,2,140764,16818,0.00
+439,Abkco Films,5,138271,20177,0.00
+440,Meadowbrook,2,138267,21390,0.00
+441,Lightsource,1,131672,18338,0.00
+442,Pak Films,1,131451,21167,0.00
+443,Wildcat Releasing,3,129994,18892,0.00
+444,Geneon Entertainment,1,129135,20145,0.00
+445,CODEBLACK Films/Lionsgate,1,129102,15879,0.00
+446,Mac Releasing,1,129042,21400,0.00
+447,Painted Zebra Releasing,2,126021,20067,0.00
+448,Embrem Entertainment,5,125648,17580,0.00
+449,SnagFilms,3,125526,15601,0.00
+450,SPEAKproductions,2,125380,17244,0.00
+451,Noujaim Films,2,124244,15238,0.00
+452,Noruz Films,1,123731,17232,0.00
+453,Gigantic Pictures,2,123301,18367,0.00
+454,IRS Releasing,2,121777,27994,0.00
+455,Participant Media,3,121306,14866,0.00
+456,Newroz Films,2,120750,17456,0.00
+457,Illuminare,3,118517,18559,0.00
+458,Insurgent Media,1,116037,14632,0.00
+459,Bev Pictures,2,113849,14724,0.00
+460,BerKela Films,1,113730,15839,0.00
+461,GR Films,2,112313,14547,0.00
+462,CFI,1,110594,14016,0.00
+463,Non Fiction Films,1,110577,17806,0.00
+464,Saboteur Media,2,108726,13279,0.00
+465,Four of a Kind Productions,1,106524,13501,0.00
+466,Landmark Theaters,1,105710,13280,0.00
+467,Life Sentence Films/m Tuckman Media,2,104169,12806,0.00
+468,IndieVest Pictures,1,102645,13009,0.00
+469,Motion Pictures Film and Television,1,102541,12930,0.00
+470,Newstyle Releasing,1,96314,13414,0.00
+471,Gabriel's Messenger Films,1,93690,11523,0.00
+472,Unstuck LLC,1,91302,10830,0.00
+473,Full Moon Features,1,91260,11508,0.00
+474,Mangusta Productions,3,90461,11529,0.00
+475,Laemmle/Zeller Film,6,89325,13421,0.00
+476,Spark Entertainment,1,89169,12419,0.00
+477,Outsider,3,88832,12910,0.00
+478,APD/Cinema Conservancy,7,88528,10918,0.00
+479,AMC Independent,1,87783,10797,0.00
+480,Paladin/108 Media,2,87078,10710,0.00
+481,Atlantic,1,84744,18069,0.00
+482,Sycamore Entertainment Group Inc. ,1,83566,10498,0.00
+483,Norador Productions,1,81883,13185,0.00
+484,Onyx Films,1,79627,9794,0.00
+485,Liberty Street Films,1,77619,9547,0.00
+486,Monument Releasing,5,76932,9123,0.00
+487,Maxmedia/Endgame,2,73653,11504,0.00
+488,Reel Source,2,73321,10929,0.00
+489,Avalanche Releasing,5,73309,14035,0.00
+490,Thunderstruck Films,2,72451,9721,0.00
+491,Arcangelo Entertainment,2,71145,9919,0.00
+492,Telepathic Studios,1,70066,8880,0.00
+493,Pallisades Tartan,2,69608,9218,0.00
+494,ADV Films,1,69386,11506,0.00
+495,Stone Five Studios,1,67665,9424,0.00
+496,Films Around the World,2,67464,12376,0.00
+497,Attitude Films,2,65158,12116,0.00
+498,Kria,3,64084,9996,0.00
+499,Pathfinder,3,62590,10159,0.00
+500,Alliance Vivafilm,1,61337,7734,0.00
+501,Pasidg Productions,2,60513,8709,0.00
+502,Vanishing Angle Films,1,60438,7169,0.00
+503,InterPositive Media,1,60332,8402,0.00
+504,Palisades,2,59144,7594,0.00
+505,Group 1,1,57595,13240,0.00
+506,Sidetrack Films,1,56386,7853,0.00
+507,Fisher-Klingenstein Films,2,55722,7005,0.00
+508,Sky Island,3,55470,8606,0.00
+509,Gorilla Factory,1,55398,8457,0.00
+510,Dimension Pictures,1,55007,6525,0.00
+511,Tyscot Manhaddon,1,54008,6784,0.00
+512,Tilapia Film,1,53471,7771,0.00
+513,Kristin Marie Productions,1,53256,6715,0.00
+514,Better World Distribution,1,51576,7183,0.00
+515,Film Forum,5,51566,6603,0.00
+516,BBC Worldwide North America,1,50921,6040,0.00
+517,Audience Alliance,1,50076,6676,0.00
+518,Fader Films,2,49772,7726,0.00
+519,Truth Aid/Amplify,1,49667,5891,0.00
+520,Spacey,1,49591,6069,0.00
+521,Economic Projections,1,49048,7651,0.00
+522,SeeThink,1,48969,7117,0.00
+523,Richmond Media Entertainment,2,48725,5853,0.00
+524,Olive Films,6,48036,6196,0.00
+525,S2BN,1,47718,5994,0.00
+526,Thread Cross Films,1,47243,7212,0.00
+527,Wave Releasing,1,47071,6276,0.00
+528,Faulkner-McLean Entertainment,1,47009,5927,0.00
+529,Aura Entertainment,1,46474,6754,0.00
+530,Le Petit Canyon Productions,1,46437,5711,0.00
+531,Lifesize Entertainment,4,45847,6816,0.00
+532,Flicker Alley,1,45353,5697,0.00
+533,Lambert Releasing,1,45000,5535,0.00
+534,IFG,2,44938,7235,0.00
+535,Rockstone Releasing,2,44931,5539,0.00
+536,Waldo West Productions,1,43905,6114,0.00
+537,Corinth Films ,3,42879,5368,0.00
+538,North/South Pictures,1,42557,5208,0.00
+539,Linn Productions,2,41948,5138,0.00
+540,B.D. Fox Independent,1,41914,5285,0.00
+541,Five Points Media,1,41714,6368,0.00
+542,Ketchup Entertainment,2,41480,5101,0.00
+543,In The Light Productions LLC,1,41336,4903,0.00
+544,Triumph Releasing,1,41010,7245,0.00
+545,Skylight Pictures,2,40726,5133,0.00
+546,Shotown Pictures,1,40508,5108,0.00
+547,Reliance/LoveStreaks,1,40289,5855,0.00
+548,Jujitsu Films,1,39895,6424,0.00
+549,Showtime Original,1,39347,4667,0.00
+550,Women Make Movies,2,39277,6015,0.00
+551,New Love Films,3,39081,5553,0.00
+552,Phase 4 Films Sameul Goldwyn Films,1,38856,4779,0.00
+553,The World According to Shorts,2,38382,4849,0.00
+554,New World,4,38296,4948,0.00
+555,108 Pics,1,38261,4824,0.00
+556,Archstone Entertainment,5,37235,4429,0.00
+557,Artiztical Entertainment,2,37072,5569,0.00
+558,Eden Rock/Abramorama,1,36830,5930,0.00
+559,Film Philos,1,36608,5589,0.00
+560,Every Tribe Entertainment,1,36412,5863,0.00
+561,International WOW,1,36386,4316,0.00
+562,Skouras,1,34812,5314,0.00
+563,Spit and Glue,2,34222,5574,0.00
+564,Doppelganger Releasing,5,34098,4163,0.00
+565,Cavalier Films,2,34068,4723,0.00
+566,Dark Forest Releasing,1,32833,5122,0.00
+567,Metropole Films Distribution ,1,32457,4077,0.00
+568,Cinedigm/Film Arcade,1,32251,3825,0.00
+569,Testimony Pictures,2,32092,5485,0.00
+570,Morning Star Pictures,1,31858,4037,0.00
+571,GasLand Productions,1,30846,3909,0.00
+572,"Documented Film, LLC",1,30662,3752,0.00
+573,Joule Films,1,30655,3851,0.00
+574,Steelyard Pictures,1,30444,3744,0.00
+575,Resident Artist,1,30168,3578,0.00
+576,Mypheduh Film,1,30071,4009,0.00
+577,Cinipix,1,29863,3673,0.00
+578,Viz Pictures,1,29500,4602,0.00
+579,Raja Cinema,1,29269,4076,0.00
+580,"Moving Visions Entertainment, Inc.",1,28951,3543,0.00
+581,Present Pictures/Morning Knight,1,28835,4016,0.00
+582,Artigo Ajemian Films,1,28336,3591,0.00
+583,Artists Public Domain/Cinema Conservancy,4,27445,3371,0.00
+584,Electric Entertainment,1,27079,3212,0.00
+585,Trela,1,27052,3606,0.00
+586,Monica Beach Media,1,27000,3404,0.00
+587,"Safari Media, LLC",2,26859,3990,0.00
+588,Newmark/Echelon Ent.,1,26642,4290,0.00
+589,Variance Films/Syndicado,1,25866,3165,0.00
+590,25th Frame,1,25855,3067,0.00
+591,New American Vision,1,25846,3275,0.00
+592,Hiltz Squared,5,25206,3105,0.00
+593,Cinebella Entertainment,1,25049,4311,0.00
+594,Anywhere Road Entertainment,3,24701,3501,0.00
+595,Riot Studios,1,23689,2899,0.00
+596,The Movie Partners,1,23616,3432,0.00
+597,Picture Park,1,23095,3216,0.00
+598,Honora Productions,2,23047,2733,0.00
+599,Quixotic Media,1,22938,3501,0.00
+600,Cabin Films,1,22539,2856,0.00
+601,Unison Films,1,22251,3099,0.00
+602,Dinsdale Releasing,2,21946,3482,0.00
+603,Lopert Pictures Corporation,1,21711,2575,0.00
+604,MCR Releasing,1,21489,2992,0.00
+605,"Ghosts Media, Inc.",1,20709,2547,0.00
+606,Bramacharia LLC,1,20441,2424,0.00
+607,Plymptoons,2,20419,2603,0.00
+608,America Saga Releasing,1,20300,2559,0.00
+609,Cinema Tropical,1,19791,3021,0.00
+610,Schwarzsmith &amp; Taskovski,1,19662,2857,0.00
+611,Revolver Entertainment,2,19313,2485,0.00
+612,Sky Harbor Basement,1,19257,3100,0.00
+613,House Lights Media,1,19186,2359,0.00
+614,People Pictures,1,19137,2425,0.00
+615,Mondo Paradiso Films,1,18654,2212,0.00
+616,Pocket Releasing,1,18445,2680,0.00
+617,American World Pictures,1,18215,2428,0.00
+618,WRA Productions LLC,1,18051,2141,0.00
+619,Rooftop Films,1,17981,2267,0.00
+620,Wolfe Twenty,1,17625,2350,0.00
+621,Check Entertainment Distribution,1,17107,2157,0.00
+622,Xenon Pictures,1,16791,2440,0.00
+623,The Film Collective,1,16772,2062,0.00
+624,Slamdance on the Road,1,16265,2619,0.00
+625,Off-Hollywood Distribution,2,16137,2637,0.00
+626,Captured Films,1,16136,2345,0.00
+627,Vertical Entertainment,2,16009,1898,0.00
+628,Driving With Our Eyes Shut,6,15763,1939,0.00
+629,Palo Alto Pictures,1,15679,2524,0.00
+630,Vagrant Films,3,15547,2017,0.00
+631,600 West,1,15425,2242,0.00
+632,NeoClassics Films,1,15000,2000,0.00
+633,"Time and Tide Productions, Inc.",1,15000,1779,0.00
+634,HP Releasing,1,14804,2260,0.00
+635,The 7th Floor,2,14756,2252,0.00
+636,Cafe Pictures,1,14616,1733,0.00
+637,Atopia,2,14389,2290,0.00
+638,Cockeyed Caravan,1,14305,2231,0.00
+639,Secret Identity Productions,1,14057,1765,0.00
+640,Margin Films,3,13937,2362,0.00
+641,Arab Film Distribution,7,13840,2191,0.00
+642,Troma Entertainment,1,13804,1922,0.00
+643,Four Eyed Monsters,1,13523,2064,0.00
+644,Pillen's Farm Pictures,1,13500,1695,0.00
+645,Anderson Digital,1,13385,1638,0.00
+646,7A Productions,1,13093,1644,0.00
+647,FlyRock Media,1,12891,1585,0.00
+648,FilmDemic,1,12620,1591,0.00
+649,Lumpy Rock,1,12405,1935,0.00
+650,Mile End Films,1,12306,1713,0.00
+651,Fork Films,1,12267,1455,0.00
+652,"Touch the Wall, LLC",1,12156,1487,0.00
+653,Stand Up Films,1,12010,1745,0.00
+654,41 Inc.,1,12000,1671,0.00
+655,High Cotton Films,1,11975,1868,0.00
+656,Aliquot Films,1,11799,1573,0.00
+657,The Little Film Company/Dada Films,1,11711,1484,0.00
+658,MSK Productions,1,11581,1544,0.00
+659,Waterdog Films,1,11574,1466,0.00
+660,Sony/BMG,1,11550,1678,0.00
+661,Cinema Epoch,3,11500,1531,0.00
+662,Mandt Brothers,1,11340,1579,0.00
+663,Cinema Four,2,11228,1808,0.00
+664,Icon Film Distribution,2,11190,1563,0.00
+665,The Kids Are Alright Productions/Variance Films,1,11183,1417,0.00
+666,Psychic Girls,1,11089,1729,0.00
+667,"Shoot First, Inc.",1,11021,1348,0.00
+668,Newport Films,1,11001,1679,0.00
+669,Anchor Bay/Freestyle,1,10970,1301,0.00
+670,All Rise Films,1,10942,1386,0.00
+671,Silver Plane Films,1,10629,1658,0.00
+672,Kino Classics,1,10600,1336,0.00
+673,Mochary Films,1,10565,1612,0.00
+674,Autlook Films,1,10172,1206,0.00
+675,Mirror Images Ltd,1,10104,1198,0.00
+676,City Drive Films,1,10021,1188,0.00
+677,Red Flag Releasing,1,10000,1256,0.00
+678,Area23a/FilmBuff,1,9939,1222,0.00
+679,Bonfire Films of America,1,9796,1204,0.00
+680,Mind the Gap,1,9496,1529,0.00
+681,Random Media,1,9386,1511,0.00
+682,Diversa Films,1,9344,1301,0.00
+683,Vanguardia Films,1,9338,1148,0.00
+684,Atlas Media Group,1,9166,1222,0.00
+685,FilmMates Partners,1,9064,1414,0.00
+686,Red Dirt Pictures,1,8752,1038,0.00
+687,Lafayette Films,1,8443,1175,0.00
+688,Laufer Films,1,8370,1277,0.00
+689,D Street Releasing,1,8340,1212,0.00
+690,Fox Meadow,1,8158,1185,0.00
+691,The Talking Pictures Company,1,8030,1070,0.00
+692,Iron Man Distr,1,8025,1166,0.00
+693,Rumur,1,8018,1250,0.00
+694,Ford Films,1,8000,1162,0.00
+695,Microangelo Entertainment,1,7763,1185,0.00
+696,26 Aries,1,7500,889,0.00
+697,The Disinformation Co.,1,7451,1137,0.00
+698,Vanish Films,1,7150,848,0.00
+699,Real Bean Entertainment,1,7137,904,0.00
+700,Andes Film Company,1,7123,1087,0.00
+701,Trinity Film,1,7051,863,0.00
+702,JSenko Productions,1,7028,833,0.00
+703,Parade Deck Films,1,6840,811,0.00
+704,The Documentary Group,1,6795,987,0.00
+705,Kanbar Entertainment,1,6793,905,0.00
+706,Liberation Entertainment,1,6627,922,0.00
+707,Brink Film,1,6607,837,0.00
+708,Afterlight Pictures,3,6523,816,0.00
+709,Radio London Films,1,6404,930,0.00
+710,Atlantik Films,1,6176,860,0.00
+711,World Wide Motion Pictures,1,6000,835,0.00
+712,Sumbadhat Productions,1,5995,799,0.00
+713,Under the Milky Way,1,5872,696,0.00
+714,Lightyear Entertainment,1,5711,677,0.00
+715,Winter Star Entertainment,1,5673,719,0.00
+716,Candy Factory Films,1,5654,670,0.00
+717,Goodface Films,1,5588,683,0.00
+718,Romantic Troubadour Entertainment,1,5508,767,0.00
+719,HB Filmworks,2,5442,838,0.00
+720,Baxter Brothers,1,5418,663,0.00
+721,Hanover Multimedia,1,4950,587,0.00
+722,CameraPlanet/Discovery,1,4920,792,0.00
+723,Frontier,1,4779,729,0.00
+724,Big Fat Movies,1,4655,726,0.00
+725,"Eliot Lives Productions, LLC",1,4345,605,0.00
+726,Humble Pie Films,1,4227,533,0.00
+727,Shout! Factory,1,4091,500,0.00
+728,Hybrid Pictures,1,4080,501,0.00
+729,The Nobility Project,1,4000,504,0.00
+730,Ohio Street Pictures,1,4000,492,0.00
+731,Lonely Seal Releasing,1,3934,571,0.00
+732,A-Mark Entertainment,1,3849,536,0.00
+733,Dark Frames,1,3778,448,0.00
+734,Minority Films,1,3724,580,0.00
+735,Scarlet Sky Productions,1,3648,446,0.00
+736,Plastic Age Productions,1,3632,458,0.00
+737,Brothers' Ink Productions,1,3496,427,0.00
+738,Reel One Entertainment / Supremacy Films,1,3442,408,0.00
+739,Industrial House Films,1,3330,395,0.00
+740,Arclight Films,1,3328,409,0.00
+741,Midwest Movies,1,3140,395,0.00
+742,IM Global/Blumhouse,1,3080,378,0.00
+743,Facets,1,3027,439,0.00
+744,Velvet Film,1,3000,367,0.00
+745,Rogue Arts,1,2841,443,0.00
+746,Watch Releasing,1,2598,418,0.00
+747,RMH Media/Dominion Entertainment,1,2509,404,0.00
+748,Carnivalesque Films,1,2500,381,0.00
+749,Kaleidoscope Pictures,1,2500,363,0.00
+750,RAM Releasing,1,2340,286,0.00
+751,Eammon Films ,1,2300,290,0.00
+752,Bullz Eye,2,2268,334,0.00
+753,Plexifilm,1,2227,358,0.00
+754,Reacter 88 Studios,1,2207,271,0.00
+755,Movin' Picture Studios,1,1990,303,0.00
+756,Cinema Con Sabor,1,1987,319,0.00
+757,Garvity Arch,1,1872,235,0.00
+758,JeTi Films,2,1863,322,0.00
+759,Lumiere Productions,1,1806,281,0.00
+760,Saban Films,1,1792,212,0.00
+761,Zell-Koj Studio,1,1739,206,0.00
+762,"Left of Center Entertainment, LLc",1,1626,199,0.00
+763,Cineville,1,1600,249,0.00
+764,Maverick Entertainment,1,1292,208,0.00
+765,End of All Cinema,1,1262,196,0.00
+766,Capitol Films,1,1260,168,0.00
+767,Kathi Arts,1,1042,167,0.00
+768,levelFILM,1,1037,127,0.00
+769,Gunnison Galaxy,1,903,107,0.00
+770,Cinevolve Studios,2,894,118,0.00
+771,Oilrag Productions,1,831,126,0.00
+772,Lavender House Films,1,401,55,0.00
